@@ -1,5 +1,5 @@
 # PSSG
-post-soviet survival guide for those who arehttps://github.com/HornetMaidan/PSSG/blob/main/README.md still human
+post-soviet survival guide for those who are still human
 
 # MAIN IDEA
 someone had to do it\
