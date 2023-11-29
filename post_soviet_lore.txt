@@ -1,0 +1,419 @@
+======== POST-SOVIET SURVIVAL GUIDE FOR THOSE WHO ARE STILL HUMAN ========
+v.1.0(work in progress, will be released 12/2023)
+======== CONTENTS ========
+
+|――> FOREWORD & INTRODUCTION
+|
+|――> LORE
+|    |
+|    |――> HOW IT STARTED (1900-1991)
+|    |
+|    |――> HOW IT'S GOING (1991-present)
+|    |
+|    \――> WHAT THE ACTUAL FUCK (present-????)
+|
+|――> GENERAL RECOMMENDATIONS
+|
+|――> REGIONS OVERVIEW
+|    |
+|    |――>RUSSIA
+|    |
+|    |――>UKRAINE
+|    |
+|    |――>BELARUS
+|    | 
+|    |――>KAZAKHSTAN
+|    |
+|    |――>SOUTHERN CENTRAL ASIA
+|    |
+|    |――>CAUCASUS REGION
+|    |
+|    |――>BALTIC REGION
+|    |
+|    \――>MOLDOVA
+|
+|――> SPECIES
+|    |
+|    |――> HOMO SAPIENS
+|    |    |
+|    |    |――> HUMAN
+|    |    |
+|    |    |――> NON-HUMAN
+|    |	  |
+|    |	  \――> QUESTIONABLY HUMAN
+|    |
+|    \――> UNCATEGORIZED
+|    
+|――> LEGENDARY LOCATIONS
+|    |
+|    |――> PRE-SOVIET ERA
+|    |
+|    |――> SOVIET ERA
+|    |
+|    \――> POST-SOVIET ERA
+|
+|――> INTERESTING ITEMS
+|    |
+|    |――> COMMON
+|    |
+|    |――> WEAPONS
+|    |
+|    |――> VEHICLES
+|    |
+|    |――> CLOTHING
+|    |
+|    |――> TECHNOLOGY
+|    |
+|    |――> FOOD
+|    |
+|    \――> UNCATEGORIZED
+|
+|――> URBAN AREAS
+|    |
+|    |――> COMMON BUILDINGS
+|    |
+|    \――> PUBLIC TRANSPORT SHORT GUIDE
+|
+|
+|――> AFTERWORD 
+|
+\――> SOURCES
+
+==========================
+
+======== FOREWORD & INTRODUCTION ========
+
+This guide shall be your handbook in this God-forgotten superregion of this planet.
+It is a collection of my personal experience and knowledge, historical facts and
+common sense combined into one database of practically most things tha exist in
+this place. I propose you use it not as a source of absolute truth(since experiences
+are subjective and might be misleading in some way), but as a reference to look up
+to and to form an objective view on anything you may encounter.
+
+This handbook will be updated as history will march on. I also have in plan to write
+a shellscript for this guide to make it interactive.
+
+I hope this file will do well for your needs, whatever they may be. If you have any
+additions, critiques, corrections or propositions to make - please do not hesitate to.
+I will look into your proposal and, if it's objectively relevant and true to this
+guide - I will include your work here and mention you as a  co-author. I wish this will
+become a collaboratie effort of many people with different experiences and knowledge, so
+it will be as accurate and objective as possible.
+
+If you have any questions regarding this work that do not fit into any category listed
+above or you just want to contact me, please do so via Telegram: @afterburnerpos.
+
+Thank you for reading this part and stay safe.
+
+- HornetMaidan
+
+==========================
+
+======== LORE ========
+======== HOW IT STARTED (1900-1991) ========
+
+This section will not dig into deepest corners of this time period's history - instead
+it will provide you with a list of events in chronological order with a short summary
+depending on the type of event, i.e. if it's a military conflict, there will be information
+about sides of the conflict, dates, casualties and a short summary of aftermath and impact
+on the following events. All sources for information provided except obvious historical 
+facts known to everyone(i.e. the date of October(Russian) Revolution) will be indexed. You
+can find them at the end of this file.
+
+======== HOW IT'S GOING (1991-present) ========
+
+This section will look more in depth into this time period's events than the previous one,
+It will be structured just the same, but will provide you with more detailed explanation of
+what happened. Please note that the sources used in this section, especially for the most
+recent events, may not be objective from the start, so please double-check all the sources
+yourself. I actually encourage you to do so.
+
+======== WHAT THE ACTUAL FUCK (present-????) ========
+
+This section will provide you with the list of most recent and current (2020-present)
+events that had effect on post-Soviet space, short summary and confirmed consequences.
+I prefer to not make any predictions here since I believe that they are subjective
+enough to be deemed arguable and perhaps even controversial. I encourage you to form
+your own point of view on events listed here and proceed accordingly. Just as in
+previous section, but to even greater extent, I also encourage you to double-check all
+sources of information in this one. I bet you know what a psyop is at this point.
+
+======== END OF SECTION ========
+
+======== GENERAL RECOMMENDATIONS ========
+
+This section will provide you with a list of guidelines, tips, facts and recommendations that
+may help you to survive in this hellscape better. Please also take into account that some
+or all of the information listed here is highly subjective - make your own ruleset and use
+this one only as a reference. I will try to make it as structured as possible and place
+everything in logical order.
+
+> God, whichever one you believe in, will not help you here.
+
+> Do not take part in any religious confrontation. If you encounter one, evade at all costs.
+If you see that such conflict of any scale (from interpersonal to nation-wide) arising - do 
+not try to intervene.
+
+> Rain water in this region is mostly undrinkable, especially near large industrial centers
+(i.e. Noril'sk, Temirtau, Zaporizhzhia). Do not drink without proper filtering.
+
+> Tap water is mostly undrinkable as well. A well-known and relatively effective method to
+filter tap water is following: firstly, get a aquaphor(graphine with a water filter).
+Assemble it by simply inserting a filter in the socket. Then, pour the desired anount of
+water in the top section. After some time, water will be filtered from heavy particles and
+chemicals. At last, boil the filtered water. This will kill bacteria and get rid of some
+remaining chemicals as well.
+ 
+> Education system is fucked up beyond repair, starting from kindergarten. Do not even bother.
+
+> Despite the line above, you still need a piece of paper to get a job that pays above lower
+median/minimum wage.
+
+> Corruption and lobbyism are perisitent on all levels of societal organizations. Do not try to
+do anything about it. Everything here was decided before you were even born, no matter your age.
+
+> In Russia, you get greater prison sentence for evading conscription than attempted murder.
+
+> Ukraine, as of 2023, is the most mined country in the world.
+
+> Under 99% of kitchen sinks there is a trash bin.
+
+> 99% of trash disposal shafts in buildings are inoperable.
+
+> "Perimeter" automatic nuclear detection and response system that covers all of the pos-Soviet
+is not being properly maintained for over 30 years now. This can cause a malfunction and perhaps
+a nuclear armageddon any second.
+
+> As of epidemologic situation since 2020-present, try to avoid big crowds. Sanitary norms are
+mostly nonexistant.
+
+> Learn default codes for entrance door locks. Trust me, this will help you a lot.
+
+> Pirating is illegal, but not prosecuted properly in all post-Soviet. Use it.
+
+> Do not use or at least avoid as much as possible any government-owned IT products(i.e. social
+networks). Use a secure connection when possible, preferrably always. 
+
+> Majority of population in all countries is an inert, politically inactive mass, which consists
+mostly of current ruling party hardliners/passive supporters. Legacy of the Soviet Union.
+
+> List will be expanded.
+
+======== END OF SECTION ========
+
+======== REGIONS OVERVIEW ========
+
+This section will provide you with a summary about all regions of the post-Soivet space.
+Just for the sake of fun, I will rate them for their survivability and explain why.I will
+use my own Hornet's Country Survivability index(HCSI), which is based on my own data and
+experience. Since it is technically my personal opinion here, I will not include any sources
+and highly encourage you to NOT take it as a factual representation. The scale ranges from
+1.0 to 10.0, the last being the highest level possible.
+
+======== RUSSIA ========
+
+Capital: Moscow
+Population(approx.): 140 million(2023)
+Major ethnic group: Russians
+HCSI: 3.5(2023), 5.5(2021)
+
+
+Summary:
+The largest country in post-Soviet space, as well as perhaps the most powerful in most ways.
+That doesn't make it best though. A pretty ethnically diverse society and internal politics
+vector maintained by technically one and only political party in Russia results in numerous
+internal conflicts on ethnical, religious and national grounds. Overall, living in a population
+centers with 1 million people or more can be considered as possible, but not recommended looking
+back to last 5 years. Only exceptions may be Moscow and St. Petersburg, which are two biggest
+cities in Russia - but that's why there is a saying "Moscow - is not Russia". External politics
+vector of the current ruling party is relatively aggressive and is one of the key factors for
+this country's current state.
+
+======== UKRAINE ========
+
+Capital: Kyiv
+Popultaion(approx.): 40 million(2023)
+Major ethnic group: Ukrainians
+HSCI: 5.0(2023), 7.0(2021)
+
+Summary:
+Second largest former Soviet country by population and economic leftovers. Had nuclear weapons until
+Budapest memorandum in 1997. Society, always being in some internal clusterfuck(i.e. right and left
+shore dillema) is actually pretty united, as it appeared in 2022. Living is decent taking into
+account the current war taking place, "before invasion" levels can be considered pleasant.
+Population centers are a great option, however living in less populated cities can also be considered
+possible, especially in the current state of things. External politics are pro-Western, largely
+supported by the population.
+
+======== BELARUS ========
+
+Capital: Minsk
+Population(approx.): 13 million(2023)
+Major ethnic group: Belarus
+HSCI: 6.5(2023), 7.5(2021)
+
+Summary:
+Was often called by people as "CIS's Switzerland", but not after 2022. Allegedly has Russian
+nuclear weapons stationed on it's territory. Society is somehwat united, but has conflicts in some
+questions(Russo-Ukrainian war, country's leadership, etc). Living is probably at the highest levels
+among other options in post-Soviet, with only Baltic states being competitors. External politics are
+fully pro-Russian, arguably supported by around 50% of the population.
+
+======== KAZAKHSTAN ========
+
+Capital: Astana
+Population(approx.): 20 million
+Major ethnic group: Kazakh
+HSCI: 5.0(2023), 5.5(2021)
+
+Summary:
+The second largest country in the post-Soviet. Also had nuclear weapons before passing them to Russia.
+Society is more than united, even taking into account the ethnical diversity, however some deeply rooted
+intranational conflicts withing Kazakh ethnic group can be present. Living levels have slightly decreased
+due to current geopolitical and economic situation. Living is possible only in cities with population
+above 50000 people - smaller ones are an absolute no-go. The best option is oblast' centers, Almaty and
+Karagandy being arguably the best options. External politics are balanced between Russia and West,
+and this course is supported by the majority of population.
+
+======== SOUTHERN CENTRAL ASIA ========
+
+Countries: Uzbekistan, Turkmenistan, Kyrgyzstan, Tajikstan
+Capitals: Tashkent, Ashhabad, Bishkek, Dushanbe
+Population(approx.): 130 million
+Major ethnic groups: Uzbek, Turkmen, Kyrgyz, Tajik
+HSCI: N/A
+
+Summary:
+A big chunk of post-Soviet space containing 4 former Soviet countries. Society's status is unknown to
+author, however some information about internal and external conflicts taking place in the region is
+present. Living is possible only in large population centers, preferrably capitals. Rural areas are
+literally disconnected from the world in most aspects. External politics of the countries are ranging
+widely, from Uzbekistan being mostly pro-Western and Tajikstan being clearly pro-Russian.
+
+======== CAUCASUS REGION ========
+
+Countries: Georgia, Armenia, Azerbaijan
+Capitals: Tbilisi, Erevan, Baku
+Population(approx.): 15 million
+Major ethnics groups: Georgian, Armenian, Azerbaijani
+HSCI: 6.0(2023), 6.0(2021)
+
+Summary:
+Caucasus region is containing three former Soviet countries. Georgian's society is very diverse in
+terms of politics, and Armenian and Azerbaijani ones are being mostly hostile to each other, uniting
+them in that matter. Living can be considered good, especially in capitals. Rural areas do not differ
+much from the rest of post-Soviet. External politics also are diverse, withGeorgia being fully
+pro-West, Armenia being somewhere in the middle, and Azzerbaijan being... pro-Turkish, yeah.
+
+======== BALTIC REGION ========
+
+Countries: Latvia, Lithuania, Estonia
+Capitals: Riga, Vilnus, Tallin
+Population(approx.): 10 million
+Major ethnics group: Latvian, Lithuanian, Estonian
+HSCI: 9.0(2023), 9.0(2021)
+
+Summary:
+Perhaps the best place to live in the post-Soviet space overall. Society is mostly united, as it is known
+to me. Living is definitely pleasant in any city, town or village, with perhaps rare exceptions.
+External politics are clearly pro-West - let's say all these countries are in NATO, alright?
+Generally speaking - the best you can get here.
+
+======== MOLDOVA ========
+
+Capital: Kishinev
+Population(approx.): 4 million
+Major ethnics group: Moldovans
+HSCI: N/A
+
+Summary:
+[INSUFFICIENT DATA]
+
+======== END OF SECTION ========
+
+======== SPECIES ========
+======== HOMO SAPIENS ========
+
+This section will provide you with knowledge of the most local specimen you can encounter,
+classified on many criterias, such as natural habitat, ethnic and political allegiance and
+observed behaviour. Recommendations and guidelines are also included. All species are also
+divided to "human" and "non-human" cathegories, based on their perception of basic human
+needs, rights and basic facts. There is no actual order of them in this list, it is just a
+collection of knowledge expanding as new information appears.
+
+======== HUMAN ========
+
+=======================
+
+Name: Rabotyaga(also known as: Muzhik, Grechneviy Muzhik, Zavodchanin)
+Age: 16-65+
+Gender: Male, but some female species have been observed
+Average behaviour: indifferent or friendly in most cases, though some cases of hostilities
+have been recorded
+Common habitat: almost everywhere, especially industrial facilities and sometimes bars
+
+Description:
+The word "rabotyaga" is a slang variation of the Russian word "rabotnik" - worker. Rabotyaga
+is often a person who works a heavy job, like industrial, construction, logistics, etc.
+These people are rarely hostile, so it is safe to approach and interact with them most of the
+time. Most of them do have higher than average technical expertise and muscle mass, which is
+a byproduct of their occupation. Depending on age, some notable characteristics may differ, but
+the most common ones are: smoker, alcohol consuming, extensive use of explicit vocabulary, high
+technical proficiency, rough skin, dark rings under eyes, marks that indicate their occupation
+(i.e. for painters or electricians on factories, a distinct smell of acetone/paint/soldering flux
+is perisistent, for metalworkers - burned dot marks on their skin from sparks, etc.)
+
+=======================
+
+Name: Gopnik(also known as: Marginal, Bydlo, Gopota)
+Age: 12-30+
+Gender: Mostly male, can be female as well
+Average behaviour: passive-aggressive or hostile
+Common habitat: low income neighbourhoods, liquor stores, playgrounds, small alleys
+
+Description:
+Perhaps the most known type of people whose name became a buzzword known arcoss the entire world.
+The word "gopnik" is a derivative from word "gop" or "gop-stop", which means on marginal language
+to take away by force, or simply rob. These people are mostly hostile, especially when drunk, though
+some are switching to the passive-aggressive or even defensive behviour if they encounter a threat
+that's bigger than them. Actively avoid. This type of Homo Sapiens species is included in "human"
+sections, since most of them still do abide by some kind of code - the "vorovskoy zakon", or
+"robber's law", which is a form of marginal unwritten Bible followed by many. Distinctive flags are:
+smoking, drinking in public, cheap sportswear(the notorious Adidas tracksuit variations) or "classy"
+look, usage of ONLY explicit vocabulary and marginal jargon(prison talk), usually in a company of
+similar individuals, sometimes wearing many rings and/or an Orthodox Christian cross on the neck,
+prison- or marginal-themed tattooes.
+
+=======================
+
+Name: Ment(also known as Musor, Pharaon, Legaviy)
+Age: 22-55+
+Gender: Male, no female versions observed yet, though the possibility exists
+Average behaviour: deceiving, passive-aggressive, sometimes hostile
+Common habitat: streets, police departments, public places, technically anywhere
+
+Description:
+"Ment" is a marginal jargon word for a policeman, which found an extensive use in the last 30 years
+among general population for the same meaning. The word itself implies the negative attitude to a
+law enforcement serviceman, thus is not tolerated by the mentioned before. Basically, just a police
+officer, but as the corruption and lobbyism is perisistent on all levels of society, most of them
+have truly earned this name through years. Do not actively avoid, but try to not intersect with them
+if you can. Distinctive characteristics are: the uniform, obviously, sometimes a service weapon in a
+hip holster(most common: PM/Makarov), sometimes narcissistic attitude towards others.
+
+=======================
+
+Name: Bomzh(also known as Bich, Bomzhara)
+Age: technically any, usually 40-60+
+Gender: Both male and female
+Average behaviour: indifferent, passive aggressive or hostile
+Common habitat: virtually anywhere, dumpsters, abandoned buildings, streets
+
+Description:
+The word "BOMZh" originally is an abbreviation from "Bez Opredelennogo Mesta Zhitel'stva", which is
+"without a definitive living place". Simply put - a homeless person, often marginalized. Actively avoid.
+May be aggressive, but cases of friendly behaviour are not uncommon, mostly to deceive a person for
+financial profit. Distinctive characteristics: awful smell, drunken breath, beaten-up clothes, dirty,
+extensive use of explicit vocabulary.
+
+=======================
